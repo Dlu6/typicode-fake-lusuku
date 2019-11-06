@@ -1,27 +1,11 @@
 {
-  "photos": [
+  "posts": [
     {
       "id": 1,
-      "username": "aj_crush",
-      "user_avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
-      "image": "http://www.anotherindian.com/wp-content/uploads/2017/08/instagram-photos-depression.jpg",
-      "title": "#igers #ootd #instalike"
-    },
-    {
-      "id": 2,
-      "username": "nicols89",
-      "user_avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kfriedson/128.jpg",
-      "image": "https://images.britcdn.com/wp-content/uploads/2015/03/humblechics-instagram.png",
-      "title": "#beach #sand #vacay"
-    },
-    {
-      "id": 3,
-      "username": "junkook._",
-      "user_avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/brynn/128.jpg",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/4e/66/48/4e66484323a2975b2e408757c89a8f76.jpg",
-      "title": "Music is life #musictomyears #instalike"
-    },
-    
-    {
-  ];
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
