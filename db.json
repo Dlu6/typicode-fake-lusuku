@@ -1,4 +1,5 @@
-"posts" = [
+{
+  "posts" = [
   {
     "id": 1,
     "name": "Ram Farmers",
@@ -19,3 +20,4 @@
   },
   
 ];
+}
