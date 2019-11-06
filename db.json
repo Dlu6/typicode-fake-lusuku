@@ -41,6 +41,27 @@
       "name": "Potatoes",
       "title": "Potatoes from Soroti. Ship to Kampala Everyday. Very rich with fiber and anyother carbohydrates you can think of",
       "price": "Ushs 6000"
-    }
+    },
+    {
+      "id": 6,
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/3554473469/3554473469.png",
+      "name": "Sweet Potates",
+      "title": "Lumonde from Kabele. Ship to Kampala Everyday. Very rich with fiber and anyother vitamin you can think of random text goes on to cover the description",
+      "price": "Ushs 4000"
+    },
+    {
+      "id": 7,
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/3554473469/3554473469.png",
+      "name": "Sweet Potates",
+      "title": "Lumonde from Kabele. Ship to Kampala Everyday. Very rich with fiber and anyother vitamin you can think of random text goes on to cover the description",
+      "price": "Ushs 4000"
+    },
+    {
+      "id": 8,
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/3554473469/3554473469.png",
+      "name": "Sweet Potates",
+      "title": "Lumonde from Kabele. Ship to Kampala Everyday. Very rich with fiber and anyother vitamin you can think of random text goes on to cover the description",
+      "price": "Ushs 4000"
+    },
   ]
 }
