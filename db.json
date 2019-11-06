@@ -3,15 +3,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut"
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "image": "http://www.anotherindian.com/wp-content/uploads/2017/08/instagram-photos-depression.jpg"
     },
     {
       "id": 2,
-      "title": "quam occaecati qui deleniti consectetur\nconsequatur aut facere quas exercitationem aliquam hic"
+      "title": "quam occaecati qui deleniti consectetur\nconsequatur aut facere quas exercitationem aliquam hic",
+      "image": "https://images.britcdn.com/wp-content/uploads/2015/03/humblechics-instagram.png"
     },
     {
       "id": 3,
-      "title": "odit qui et et necessitatibus sint veniam\nmollitia amet doloremque molestiae commodi similique magnam"
+      "title": "odit qui et et necessitatibus sint veniam\nmollitia amet doloremque molestiae commodi similique magnam",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/4e/66/48/4e66484323a2975b2e408757c89a8f76.jpg"
     }
   ]  
 }
