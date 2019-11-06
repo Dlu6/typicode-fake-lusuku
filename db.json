@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "photos": [
     {
       "id": 1,
       "username": "aj_crush",
@@ -21,19 +21,7 @@
       "image": "https://s-media-cache-ak0.pinimg.com/originals/4e/66/48/4e66484323a2975b2e408757c89a8f76.jpg",
       "title": "Music is life #musictomyears #instalike"
     },
+    
     {
-      "id": 4,
-      "username": "tashi_run",
-      "user_avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
-      "image": "https://c1.staticflickr.com/5/4246/35122668915_a01baa7fd5_b.jpg",
-      "title": "#foodies #foodgasm Sunday brunch"
-    },
-    {
-      "id": 5,
-      "username": "tashi_run",
-      "user_avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
-      "image": "https://d2ciprw05cjhos.cloudfront.net/files/v3/styles/gs_large/public/events/17/05/halsey_170503.jpg?itok=SxPeCxEv",
-      "title": "Number 1 idol #WCW #halsey #instalike"
-    }
   ]
 }
