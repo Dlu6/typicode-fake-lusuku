@@ -1,23 +1,46 @@
-
 {
   "posts": [
     {
       "id": 1,
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "image": "http://www.anotherindian.com/wp-content/uploads/2017/08/instagram-photos-depression.jpg",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus labore et velit aut"
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/3717181274/3717181274.png",
+      "title": "Pineapple",
+      "description": "Juicy Pineapples from Kabele. Ship to Kampala Everyday. Very rich with fiber and anyother vitamin you can think of",
+      "price": "Ushs 7000"
     },
     {
       "id": 2,
-      "title": "quam occaecati qui deleniti consectetur\nconsequatur aut facere quas exercitationem aliquam hic",
-      "image": "https://images.britcdn.com/wp-content/uploads/2015/03/humblechics-instagram.png",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus labore et velit aut"
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/1445572090/1445572090.png",
+      "title": "Apple Bananas",
+      "description": "Locally known as Ndizzi. Ship to Kampala from Masaka Everyday. Known for a great Shelf life of upto 7 days. You can buy them room and let them dry gradually. More random text vitamin you can think of",
+      "price": "Ushs 9000"
     },
     {
       "id": 3,
-      "title": "odit qui et et necessitatibus sint veniam\nmollitia amet doloremque molestiae commodi similique magnam",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/4e/66/48/4e66484323a2975b2e408757c89a8f76.jpg",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus labore et velit aut"
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/1679160891/1679160891.png",
+      "title": "Beetroot",
+      "description": "Very medicinal shipped from Mukono. Drink everyday punched with other fruits for a great aroma. Very rich with Zinc and anyother vitamin you can think of plus random text",
+      "price": "Ushs 4000"
+    },
+    {
+      "id": 4,
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/3717181274/3717181274.png",
+      "title": "Fresh Peas",
+      "description": "Juicy Pineapples from Kabele. Ship to Kampala Everyday. Very rich with fiber and anyother vitamin you can think of",
+      "price": "Ushs 13000"
+    },
+    {
+      "id": 5,
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/3554473469/3554473469.png",
+      "title": "Sweet Potates",
+      "description": "Lumonde from Kabele. Ship to Kampala Everyday. Very rich with fiber and anyother vitamin you can think of random text goes on to cover the description",
+      "price": "Ushs 4000"
+    },
+    {
+      "id": 6,
+      "image": "https://lusuku.s3.ap-south-1.amazonaws.com/media/products/2457174056/2457174056.png",
+      "title": "Potatoes",
+      "description": "Potatoes from Soroti. Ship to Kampala Everyday. Very rich with fiber and anyother carbohydrates you can think of",
+      "price": "Ushs 6000"
     }
-  ]  
+  ]
 }
